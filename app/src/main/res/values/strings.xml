@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScoreBoard</string>
+    <string name="name_pittsburgh_pirates">Pittsburgh Pirates</string>
+    <string name="name_colorado_rockies">Colorado Rockies</string>
+    <string name="startedScore">0</string>
+    <string name="reset">Reset</string>
+</resources>
