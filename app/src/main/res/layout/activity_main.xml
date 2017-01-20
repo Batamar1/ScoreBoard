@@ -9,13 +9,13 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.batamar.scoreboard.MainActivity"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:gravity="center">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
-        android:layout_marginTop="@dimen/layouts_margin_top"
         android:weightSum="1">
 
         <TextView
